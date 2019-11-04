@@ -2,6 +2,15 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/aluno/Documents/NetBeansProjects/TesteFNC/src/java/com/cadastro/routes/ProcedimentoRemoverRoutes.java</file>
+            <file>file:/C:/Users/aluno/Documents/NetBeansProjects/TesteFNC/web/index.html</file>
+            <file>file:/C:/Users/aluno/Documents/NetBeansProjects/TesteFNC/src/java/com/cadastro/controllers/PacienteController.java</file>
+            <file>file:/C:/Users/aluno/Documents/NetBeansProjects/TesteFNC/src/java/com/cadastro/models/ExameModel.java</file>
+            <file>file:/C:/Users/aluno/Documents/NetBeansProjects/TesteFNC/src/java/com/cadastro/routes/ProcedimentoListRoutes.java</file>
+            <file>file:/C:/Users/aluno/Documents/NetBeansProjects/TesteFNC/src/java/com/cadastro/routes/ProcedimentoRoutes.java</file>
+            <file>file:/C:/Users/aluno/Documents/NetBeansProjects/TesteFNC/src/java/com/cadastro/routes/ExameListRoutes.java</file>
+            <file>file:/C:/Users/aluno/Documents/NetBeansProjects/TesteFNC/src/java/com/cadastro/models/ExameModelSerializer.java</file>
+        </group>
     </open-files>
 </project-private>
