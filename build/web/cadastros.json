@@ -1,0 +1,22 @@
+{
+  "cadastros": [
+    {
+      "nome": "David Leme",
+      "cpf": "519.714.738-55",
+      "email": "davidleme@hotmail.com",
+      "id": 1
+    },
+    {
+      "nome": "Jaqueline Leme",
+      "cpf": "519.714.738-55",
+      "email": "jaqueline@hotmail.com",
+      "id": 2
+    },
+    {
+      "nome": "Vausner Vilar Ferreira",
+      "cpf": "222.222.222-22",
+      "email": "vausner@yahoo.com",
+      "id": 3
+    }
+  ]
+}

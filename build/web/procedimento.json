@@ -1,0 +1,19 @@
+{
+  "procedimentos": [
+    {
+      "id": 1,
+      "ex": "Exame de Sangue",
+      "dia": "10 dias"
+    },
+    {
+      "id": 2,
+      "ex": "Raio-x",
+      "dia": "15 dias"
+    },
+    {
+      "id": 3,
+      "ex": "Ultrassom",
+      "dia": "20 dias"
+    }
+  ]
+}

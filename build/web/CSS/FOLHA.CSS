@@ -1,0 +1,60 @@
+form{
+     padding: 20px;
+     width:600px;
+     box-shadow: 3px 3px 3px 6px rgba(0, 0, 0, 0.250);
+     margin: 0 auto;
+     border-radius: 10px;
+     background-color: white;
+     
+     margin-top: 20px;
+
+
+
+
+}
+label, input{
+   display: table-cell
+ 
+
+
+
+}
+table{
+     padding: 10px;
+     background-color:white;
+     width:600px;
+     box-shadow: 3px 3px 3px 6px rgba(0, 0, 0, 0.250);
+     margin: 0 auto;
+     border-radius: 10px;
+     background-color: white;
+     height: 40px;
+     margin-top: 20px;
+
+
+
+
+
+}
+ body{
+    background-color: rgb(43, 48, 43);
+    font: Arial
+    }
+ input{
+        background-color: white;
+        width: 250px;
+        padding:8px;
+        border-color: #222;        
+    }
+
+
+.menu {
+    position: relative;
+    margin: 20px auto;
+}
+
+.menu span {
+    border: solid 1px white;
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+}
